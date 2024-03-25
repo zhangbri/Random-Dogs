@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <p align="center">
-  <img src= 'https://i.imgur.com/Qo1ip5I.gif' title='Video Demo' width='' alt='Video Demo' />
+  <img src="randomDogs.gif" title="Random Dogs" alt="Random Dogs GIF" />
 </p>
 
 GIF created with **ScreenToGif**
