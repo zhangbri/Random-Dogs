@@ -41,7 +41,13 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-
+- **Dynamic Dog Image Fetching:** Enables spontaneous discovery of various dog breeds through random image generation.
+- **Efficient List Display:** Utilizes RecyclerView for smooth scrolling and optimized view handling of dog images.
+- **Asynchronous Image Retrieval:** Implements AsyncHttpClient for non-blocking, responsive data fetching.
+- **Glide Integration:** Facilitates smooth image loading and display within the list using Glide.
+- **Interactive Elements:** Adds click listeners on list items, enhancing interactivity with Toast feedback.
+- **Visual Layout Enhancement:** Employs LinearLayoutManager and DividerItemDecoration for organized and visually appealing list presentation.
+- **Utilization of Kotlin Features:** Demonstrates modern Kotlin practices with lateinit and mutable lists for dynamic data management.
 
 ## License
 
